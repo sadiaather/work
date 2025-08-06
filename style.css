@@ -1,0 +1,24 @@
+
+.but{
+    background:#4CAF4F;
+    width: 133.25411987304688;
+height: 36.48994445800781;
+opacity: 1;
+padding-top: 9.74px;
+padding-right: 22.27px;
+padding-bottom: 9.74px;
+padding-left: 22.27px;
+gap: 5.57px;
+border-radius: 2.78px;
+
+}
+span{
+    color: #4CAF4F;
+}
+footer{
+    background-color: black;
+    color:white;
+}
+li+a{
+    color: white;
+}
