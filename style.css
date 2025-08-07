@@ -28,7 +28,8 @@ input{
 box-shadow: -24px -28px 140px 0px #0000001A;
 background-color: rgb(49, 47, 47);
 }
-span{
+.img{
     background-color: rgb(49, 47, 47);
+    padding-right: 20px;
     
 }
