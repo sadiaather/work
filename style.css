@@ -1,5 +1,7 @@
 body{
      font-family: "Inter", sans-serif;
+     box-sizing: border-box;
+     overflow-x: hidden;
 }
 .but{
     background:#4CAF4F;
@@ -12,7 +14,7 @@ padding-bottom: 9.74px;
 padding-left: 22.27px;
 gap: 5.57px;
 border-radius: 2.78px;
-
+color: white;
 }
 span{
     color: #4CAF4F;
@@ -32,4 +34,7 @@ background-color: rgb(49, 47, 47);
     background-color: rgb(49, 47, 47);
     padding-right: 20px;
     
+}
+.buy{
+    background-color: #4CAF4F;
 }
